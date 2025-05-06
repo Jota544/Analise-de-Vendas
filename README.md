@@ -15,6 +15,14 @@ Este projeto realiza uma análise de vendas utilizando Python, Pandas e Plotly.
 - Plotly
 
 ## Como rodar o projeto
-1. Clone este repositório:
+- Clone este repositório:
 ```bash
 git clone https://github.com/Jota544/Analise-de-Vendas.git
+
+## Exemplos de Gráficos
+
+### Gráfico Interativo (HTML)
+[🔗 Clique aqui para abrir o gráfico interativo](https://github.com/Jota544/Analise-de-Vendas/blob/main/imagens/VERIFICAR.html)
+
+### Gráfico Estático (PNG)
+![Gráfico de Vendas](https://github.com/Jota544/Analise-de-Vendas/blob/main/imagens/VERIFICAR.png)
