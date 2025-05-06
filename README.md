@@ -1,4 +1,5 @@
 # Análise de Vendas 📊
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jota544/Analise-de-Vendas/blob/main/Analise_de_Vendas.ipynb)
 
 Este projeto realiza uma análise de vendas utilizando Python, Pandas e Plotly.
 
